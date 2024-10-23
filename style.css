@@ -23,7 +23,7 @@ a {
  
 .container-grid {
     display: grid;
-    grid-template-columns: 10% 60%;
+    grid-template-columns: 15% 60%;
 }
   
 .menu {
