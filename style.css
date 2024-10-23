@@ -13,3 +13,17 @@ color: #00b9f9
 p {
     color: #f4a721;
 }
+a {
+    color: #8cc634;
+}
+ 
+.container-grid {
+    display: grid;
+    grid-template-columns: 10% 60%;
+  }
+  
+  .menu {
+  }
+  
+  .column {
+  }
