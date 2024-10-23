@@ -1,18 +1,22 @@
 body {
-background-color: white;
+    background-color: white;
+    margin-left: 8%;
+    margin-right: 8%;
+    font-size:larger;
 }
 
 h1 {
-color: #079540
+    color: #079540
 }
 
 div {
-color: #00b9f9
+    color: #00b9f9
 }
 
 p {
     color: #f4a721;
 }
+
 a {
     color: #8cc634;
 }
@@ -20,10 +24,10 @@ a {
 .container-grid {
     display: grid;
     grid-template-columns: 10% 60%;
-  }
+}
   
-  .menu {
-  }
+.menu {
+}
   
-  .column {
-  }
+.column {
+}
